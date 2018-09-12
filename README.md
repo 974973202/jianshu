@@ -1,2 +1,2 @@
 # jianshu
-react16 + react-redux + redux-thunk + immutable.js
+react16 + react-redux + redux-thunk + immutable.js + es6
