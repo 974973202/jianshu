@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+    "id": 1,
+    "title": "社会热点",
+    "imgUrl": "//upload.jianshu.io/collections/images/494271/51164a1egd7b1a4a7c491_690.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    },{
+      "id": 2,
+      "title":"手绘",
+      "imgUrl": "//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    }],
+  "articleList": [{
+      "id": 1,
+      "title": "(简书交友)世界那么大，不想和你擦肩而过…",
+      "desc":"如果遇见你，我想一定会有一段美好时光。我是一个时而文静，时而活泼的女孩，以下是我的自我介绍(˙︶˙) 我叫冬晨雨音，这个笔名一开始是源自于...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/12620351-f7a03c79fd627da5.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },{
+      "id": 2,
+      "title": "如果只能选一个，你希望生活中留下什么？",
+      "desc":"",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/5074347-8bafab657f8ae8f6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }],
+  "recommendList": [{
+      "id": 1,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    },{
+      "id": 2,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+    },{
+      "id":3,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    },{
+      "id":4,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    },{
+      "id":5,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }],
+    "recommendQrcode": [{
+      "id": 1,
+      "imgUrl":"http://cdn2.jianshu.io/assets/web/download-index-side-qrcode-cb13fc9106a478795f8d10f9f632fccf.png"
+    }]
+  }
+}
